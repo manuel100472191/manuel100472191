@@ -1,4 +1,4 @@
-- 👋 Hola, soy Manuel del Amo estudiante de Ingenieria Informatica en la Universidad Carlos III de Madrid
+- 👋 Hello my name is Manuel, I am a computer science and engineeing graduate at Universidad Carlos III de Madrid. Currently studying a master's degree in industry 4.0 at UNIR
   @manuel100472191
 - 💼 [LinkedIn](https://www.linkedin.com/in/manuel-del-amo-ba0083291)
 
